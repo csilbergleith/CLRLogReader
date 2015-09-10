@@ -1,0 +1,9 @@
+c:\users\charles\documents\visual studio 2013\Projects\CLRLogReader\CLRLogReader\bin\Debug\CLRLogReader.dacpac
+c:\users\charles\documents\visual studio 2013\Projects\CLRLogReader\CLRLogReader\bin\Debug\CLRLogReader.dll
+c:\users\charles\documents\visual studio 2013\Projects\CLRLogReader\CLRLogReader\bin\Debug\CLRLogReader.pdb
+c:\users\charles\documents\visual studio 2013\Projects\CLRLogReader\CLRLogReader\obj\Debug\CLRLogReader.dll
+c:\users\charles\documents\visual studio 2013\Projects\CLRLogReader\CLRLogReader\obj\Debug\CLRLogReader.pdb
+c:\users\charles\documents\visual studio 2013\Projects\CLRLogReader\CLRLogReader\obj\Debug\Model.xml
+c:\users\charles\documents\visual studio 2013\Projects\CLRLogReader\CLRLogReader\obj\Debug\refactor.xml
+c:\users\charles\documents\visual studio 2013\Projects\CLRLogReader\CLRLogReader\obj\Debug\postdeploy.sql
+c:\users\charles\documents\visual studio 2013\Projects\CLRLogReader\CLRLogReader\obj\Debug\predeploy.sql
